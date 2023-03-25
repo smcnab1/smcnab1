@@ -28,7 +28,7 @@ jobs:
       - name: Generate README file
         run: node index.js
         env:
-          OPEN_WEATHER_MAP_KEY: 365779c032eae3b54ef3778b3fc1c2bb
+          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
