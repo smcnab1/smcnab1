@@ -25,35 +25,35 @@
   </thead>
   <tbody>
 	  <tr>
-      <td><a href="https://github.com/smcnab1/cs50-23-24"><b>CS50X 2023-2024 Solutions</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/cs50-23-24.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/cs50-23-24.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/cs50-23-24.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/cs50-23-24.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/smcnab1/course-cs50x-2324"><b>course-cs50x-2324</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
-      <td><a href="https://github.com/smcnab1/qmk_firmware_k3pro"><b>QMK Keychron K3 Pro Firmware</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/qmk_firmware_k3pro.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/qmk_firmware_k3pro.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/qmk_firmware_k3pro.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/qmk_firmware_k3pro.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/smcnab1/keychron-k3pro-qmk_firmware"><b>keychron-k3pro-qmk_firmware</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/keychron-k3pro-qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/keychron-k3pro-qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/keychron-k3pro-qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/keychron-k3pro-qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/smcnab1/op-question-mark"><b>Op-Question-Mark (Home Automation)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/op-question-mark.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/op-question-mark.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/op-question-mark.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/op-question-mark.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/smcnab1/home-assistant-config"><b>home-assistant-config</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/home-assistant-config.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/home-assistant-config.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/home-assistant-config.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/home-assistant-config.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/smcnab1/op-exclamation-mark"><b>Op-Exclamation-Mark (Homelab)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/op-exclamation-mark.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/op-exclamation-mark.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/op-exclamation-mark.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/op-exclamation-mark.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/smcnab1/home-server-config"><b>home-server-config</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/home-server-config.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/home-server-config.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/home-server-config.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/home-server-config.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/smcnab1/project-template-repo"><b>Project Template Repo</b></a></td>
+      <td><a href="https://github.com/smcnab1/project-template-repo"><b>project-template-repo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/project-template-repo.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/project-template-repo.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/project-template-repo.svg?style=flat-square&labelColor=343b41"/></td>
