@@ -25,6 +25,13 @@
   </thead>
   <tbody>
 	  <tr>
+      <td><a href="https://github.com/smcnab1/course-cs50x-2324"><b>smcnab1.github.io</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/smcnab1.github.io.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/smcnab1.github.io.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/smcnab1.github.io.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/smcnab1.github.io.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
       <td><a href="https://github.com/smcnab1/course-cs50x-2324"><b>course-cs50x-2324</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
