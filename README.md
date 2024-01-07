@@ -25,25 +25,11 @@
   </thead>
   <tbody>
 	  <tr>
-      <td><a href="https://github.com/smcnab1/SimulatePro"><b>SimulatePro</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/SimulatePro.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/SimulatePro.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/SimulatePro.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/SimulatePro.svg?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/smcnab1/github-dev-insights"><b>github-dev-insights</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/github-dev-insights.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/github-dev-insights.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/github-dev-insights.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/github-dev-insights.svg?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/smcnab1/personal-portfolio-website"><b>personal-portfolio-website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/personal-portfolio-website.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/personal-portfolio-website.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/personal-portfolio-website.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/personal-portfolio-website.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/smcnab1/cmalt-portfolio"><b>cmalt-portfolio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/cmalt-portfolio.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/cmalt-portfolio.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/cmalt-portfolio.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/cmalt-portfolio.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/smcnab1/course-cs50x-2324"><b>course-cs50x-2324</b></a></td>
@@ -52,14 +38,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	<tr>
-      <td><a href="https://github.com/smcnab1/keychron-k3pro-qmk_firmware"><b>keychron-k3pro-qmk_firmware</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/keychron-k3pro-qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/keychron-k3pro-qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/keychron-k3pro-qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/keychron-k3pro-qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
+	  <tr>
+      <td><a href="https://github.com/smcnab1/github-dev-insights"><b>github-dev-insights</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/github-dev-insights.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/github-dev-insights.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/github-dev-insights.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/github-dev-insights.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
       <td><a href="https://github.com/smcnab1/home-assistant-config"><b>home-assistant-config</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/home-assistant-config.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/home-assistant-config.svg?style=flat-square&labelColor=343b41"/></td>
@@ -74,11 +59,39 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/home-server-config.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
+      <td><a href="https://github.com/smcnab1/personal-portfolio-website"><b>personal-portfolio-website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/personal-portfolio-website.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/personal-portfolio-website.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/personal-portfolio-website.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/personal-portfolio-website.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
       <td><a href="https://github.com/smcnab1/project-template-repo"><b>project-template-repo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/project-template-repo.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/project-template-repo.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/project-template-repo.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/project-template-repo.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/smcnab1/qmk_firmware"><b>qmk_firmware</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/qmk_firmware.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/smcnab1/SimulatePro"><b>SimulatePro</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/SimulatePro.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/SimulatePro.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/SimulatePro.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/SimulatePro.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/smcnab1/smcnab1"><b>smcnab1</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/smcnab1.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/smcnab1.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/smcnab1.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/smcnab1.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
