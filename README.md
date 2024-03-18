@@ -24,6 +24,13 @@
     </tr>
   </thead>
   <tbody>
+	  	  <tr>
+      <td><a href="https://github.com/smcnab1/simulert"><b>Simulert</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/simulert.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/smcnab1/simulert.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/smcnab1/simulert.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/smcnab1/simulert.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 	  <tr>
       <td><a href="https://github.com/smcnab1/course-cs50x-2324"><b>course-cs50x-2324</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/smcnab1/course-cs50x-2324.svg?style=flat-square&labelColor=343b41"/></td>
@@ -95,4 +102,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sammcnab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sammcnab" height="30" width="40" /></a>
+<a href="https://orcid.org/0009-0009-4568-9853" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/512px-ORCID_iD.svg.png?20190308043226" alt="0009-0009-4568-9853" height="40" width="40" /></a>
+	<a href="https://sammcnab.co.uk" target="blank"><img align="center" src="https://www.svgrepo.com/show/132584/world-wide-web.svg" alt="Personal Website" height="40" width="40" /></a>
 </p>
