@@ -15,6 +15,7 @@ Always experimenting with tech — from immersive rooms to web apps to game worl
 ---
 
 ## 🔭 What I’m Working On
+- **Raycast Extensions** - [multiple extensions](https://www.raycast.com/smcnab1) for the Raycast app
 - **Workload Wizard** – multi-tenant web app for planning academic workloads  
 - **Super Basoon** – bringing modern templates to academic LMS'
 - **Scenario Toolkit** – open-source framework for designing simulation scenarios  
@@ -35,7 +36,7 @@ Always experimenting with tech — from immersive rooms to web apps to game worl
 ---
 
 ## 🚀 Featured Projects
-- **[Workload Wizard](https://github.com/SMTech-UK/workload-wizard-app)** – Multi-tenant web app for planning and managing academic workloads with role-based permissions and streamlined scheduling.  
+- **[gradient-generator](https://github.com/smcnab1/gradient-generator)** - [Raycast extension](https://www.raycast.com/smcnab1/gradient-generator) for generating random or customised gradients in SwiftUI, TailwindCSS or CSS from your keyboard.
 - **[personal-portfolio](https://github.com/smcnab1/personal-portfolio)** – My personal portfolio site, showcasing projects, speaking engagements, and creative experiments.
 - **[super-bassoon](https://github.com/smcnab1/super-bassoon)** – Experimental project for generating standardised & responsive HTML templates for Blackboard LMS.
 - **[eMORA](https://github.com/UWLSimulationCentre/eMORA)** – An instructional learning package designed to support immersive simulation objectives and tracking in healthcare education. *(Hosted under UWLSimulationCentre—but worth highlighting as one of your key simulation contributions.)*  
