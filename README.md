@@ -15,8 +15,8 @@ Always experimenting with tech — from immersive rooms to web apps to game worl
 ---
 
 ## 🔭 What I’m Working On
-- **Raycast Extensions** - [multiple extensions](https://www.raycast.com/smcnab1) for the Raycast app
-- **Workload Wizard** – multi-tenant web app for planning academic workloads  
+- **Raycast Extensions** - [multiple extensions](https://github.com/search?q=owner%3Asmcnab1%20topic%3Araycast&type=repositories) for the [Raycast app](https://raycast.com/smcnab1)
+- **WorkloadWizard** – multi-tenant web app for planning academic workloads  
 - **Super Basoon** – bringing modern templates to academic LMS'
 - **Scenario Toolkit** – open-source framework for designing simulation scenarios  
 
@@ -37,6 +37,8 @@ Always experimenting with tech — from immersive rooms to web apps to game worl
 
 ## 🚀 Featured Projects
 - **[gradient-generator](https://github.com/smcnab1/gradient-generator)** - [Raycast extension](https://www.raycast.com/smcnab1/gradient-generator) for generating random or customised gradients in SwiftUI, TailwindCSS or CSS from your keyboard.
+- **[cheatsheets-remastered](https://github.com/smcnab1/cheatsheets-remastered)** - [Raycast extension](https://www.raycast.com/smcnab1/cheatsheets-remastered) with enhanced functionality, custom sheet creation, and an improved browsing experience.
+- **[luxafor-controller](https://github.com/smcnab1/luxafor-controller)** - [Raycast extension](https://www.raycast.com/smcnab1/luxafor-controller) for controlling your Luxafor LED device directly from Raycast with real-time status monitoring and quick color controls. 
 - **[personal-portfolio](https://github.com/smcnab1/personal-portfolio)** – My personal portfolio site, showcasing projects, speaking engagements, and creative experiments.
 - **[super-bassoon](https://github.com/smcnab1/super-bassoon)** – Experimental project for generating standardised & responsive HTML templates for Blackboard LMS.
 - **[eMORA](https://github.com/UWLSimulationCentre/eMORA)** – An instructional learning package designed to support immersive simulation objectives and tracking in healthcare education. *(Hosted under UWLSimulationCentre—but worth highlighting as one of your key simulation contributions.)*  
