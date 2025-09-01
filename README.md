@@ -22,23 +22,11 @@ Always experimenting with tech — from immersive rooms to web apps to game worl
 
 ---
 
-## 🛠 My Current Toolkit
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) 
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)  
-[![Convex](https://img.shields.io/badge/Convex-000000?style=flat-square&logo=convex&logoColor=white)](https://convex.dev/) 
-[![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=flat-square&logo=clerk&logoColor=white)](https://clerk.com/) 
-[![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat-square&logo=powerapps&logoColor=white)](https://powerapps.microsoft.com/) 
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) 
-
----
-
 ## 🚀 Featured Projects
 - **[gradient-generator](https://github.com/smcnab1/gradient-generator)** - [Raycast extension](https://www.raycast.com/smcnab1/gradient-generator) for generating random or customised gradients in SwiftUI, TailwindCSS or CSS from your keyboard.
 - **[cheatsheets-remastered](https://github.com/smcnab1/cheatsheets-remastered)** - [Raycast extension](https://www.raycast.com/smcnab1/cheatsheets-remastered) with enhanced functionality, custom sheet creation, and an improved browsing experience.
-- **[luxafor-controller](https://github.com/smcnab1/luxafor-controller)** - [Raycast extension](https://www.raycast.com/smcnab1/luxafor-controller) for controlling your Luxafor LED device directly from Raycast with real-time status monitoring and quick color controls. 
+- **[luxafor-controller](https://github.com/smcnab1/luxafor-controller)** - [Raycast extension](https://www.raycast.com/smcnab1/luxafor-controller) for controlling your Luxafor LED device directly from Raycast with real-time status monitoring and quick color controls.
+- **[personal-links](https://github.com/smcnab1/personal-links)** - My personal link-in-bio site, providing an easy one-page site linking to my socials & website.
 - **[personal-portfolio](https://github.com/smcnab1/personal-portfolio)** – My personal portfolio site, showcasing projects, speaking engagements, and creative experiments.
 - **[super-bassoon](https://github.com/smcnab1/super-bassoon)** – Experimental project for generating standardised & responsive HTML templates for Blackboard LMS.
 - **[eMORA](https://github.com/UWLSimulationCentre/eMORA)** – An instructional learning package designed to support immersive simulation objectives and tracking in healthcare education. *(Hosted under UWLSimulationCentre—but worth highlighting as one of your key simulation contributions.)*  
