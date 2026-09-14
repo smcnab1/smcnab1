@@ -101,7 +101,7 @@ I also build smaller tools for the Raycast ecosystem.
 * **[Magna](https://github.com/UWLSimulationCentre/Magna)**
   * A multi-screen patient-monitor emulator for simulation environments.
 
-* **[super-bassoon](https://github.com/smcnab1/super-bassoon)**
+* **[modu-mate](https://github.com/smcnab1/modu-mate)**
   * Tools for generating Blackboard LMS learning templates.
 
 * **[project-template-repo](https://github.com/smcnab1/project-template-repo)**
