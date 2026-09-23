@@ -95,8 +95,8 @@ I also build smaller tools for the Raycast ecosystem.
 
 ### Open-source projects
 
-* **[eMORA](https://github.com/UWLSimulationCentre/eMORA)**
-  * A simulation learning package designed for healthcare education.
+* **[SimuGen](https://github.com/smcnab1/SimuGen)**
+  * A ChatGPT plugin for generating simulated scenarios in healthcare.
 
 * **[Magna](https://github.com/UWLSimulationCentre/Magna)**
   * A multi-screen patient-monitor emulator for simulation environments.
@@ -104,7 +104,7 @@ I also build smaller tools for the Raycast ecosystem.
 * **[modu-mate](https://github.com/smcnab1/modu-mate)**
   * Tools for generating Blackboard LMS learning templates.
 
-* **[project-template-repo](https://github.com/smcnab1/project-template-repo)**
+* **[project-template](https://github.com/smcnab1/project-template)**
   * An opinionated starting point for new software projects.
 
 ---
