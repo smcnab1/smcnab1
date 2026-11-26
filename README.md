@@ -4,11 +4,7 @@
 
 I build practical software at the intersection of healthcare, simulation and technology - from platforms for simulation teams to small tools that make everyday workflows easier.
 
-<p align="left">
-    <a href="https://github.com/smcnab1?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-14-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-14-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
-    <a href="https://github.com/smcnab1?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/smcnab1.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/smcnab1.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
-<a href="https://sammcnab.co.uk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Website-sammcnab.co.uk-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-sammcnab.co.uk-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
-</p>
+[Browse public repositories](https://github.com/smcnab1?tab=repositories) · [Visit my portfolio](https://sammcnab.co.uk)
 
 ---
 
@@ -58,15 +54,7 @@ An open-source ChatGPT plugin that helps healthcare educators create structured 
 
 ## What I work with
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Raycast-FF6363?logo=raycast&logoColor=white" alt="Raycast">
-</p>
+TypeScript, React, Next.js, Swift, Tailwind CSS, Vercel and Raycast.
 
 My interests include full-stack development, healthcare simulation, immersive learning, accessible design and AI-assisted workflows.
 
